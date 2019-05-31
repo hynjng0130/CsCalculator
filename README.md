@@ -15,4 +15,4 @@
 * GitHub Desktop, GitHub
 
 ### 미리보기
-![sample](./image/sampleimage.png)
+![sample](./20190503/image/sampleimage.png)
