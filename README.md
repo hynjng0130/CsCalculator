@@ -12,6 +12,7 @@
 
 ### 기술
 * C#
+* Visual Studio
 * GitHub Desktop, GitHub
 
 ### 미리보기
