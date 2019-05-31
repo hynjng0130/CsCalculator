@@ -9,5 +9,4 @@
 * GitHub Desktop, GitHub
 
 ## 미리보기
-![default](https://cloud.githubusercontent.com/assets/25098075/23933194/22bf0b3c-0980-11e7-9025-da4c90f4dd9f.jpg)
 ![sample](./20190503/image/sampleimage.png)
